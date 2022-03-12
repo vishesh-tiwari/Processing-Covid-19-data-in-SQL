@@ -6,4 +6,4 @@ Deaths data - https://ourworldindata.org/covid-deaths
 
 Vaccinations data - https://ourworldindata.org/covid-vaccinations
 
-[Link to Dashboard](https://public.tableau.com/views/Covid-19CasesInfectionandMortalityDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+[Link to Dashboard in Tableau](https://public.tableau.com/views/Covid-19CasesInfectionandMortalityDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
